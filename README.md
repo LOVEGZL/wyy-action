@@ -18,7 +18,7 @@
 示例：**USER:13800000000#13800000001**，**PWD:cxkjntm#jntmcxk**
 ![image-20200727142753175](https://i.loli.net/2020/07/27/xjri3p4qdchaf2G.png)
 
-### 三、启用 Action
+### 三、启用 Action！！
 1. 点击 ***Actions***，再点击 **I understand my workflows, go ahead and enable them**
 
    ![](https://i.loli.net/2020/07/27/pyQmdMHrOIz4x2f.png)
